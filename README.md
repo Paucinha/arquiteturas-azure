@@ -2,16 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/Paucinha/api-ecommerce-dio?style=flat-square)
 
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO, como se concentra os componentes essenciais da arquitetura do Azure:
-
-- Regiões, pares de regiões e regiões soberanas do Azure.
-
-- Zonas de disponibilidade e datacenters do Azure.
-
-- Recursos e os grupos de recursos do Azure.
-
-- Assinaturas e grupos de gerenciamento.
-- Hierarquia de grupos de recursos, assinaturas e grupos de gerenciamento.
+Este projeto você entenderá como se concentra os componentes essenciais da arquitetura do Azure. 😉
 
 **Azure | Full-Stack | Básico**
 
